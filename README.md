@@ -133,22 +133,6 @@ The evidencias of this pipeline is founded in the folders located to root of rep
 
 - *curated_zone* folder: contains the python scripts of glue jobs and queries images for curated zone
 
-example root tree:
-
-.
-├── curated zone
-│   ├── images
-│   ├── py_scripys
-│   └── 
-├── landing_zone
-│   ├── images
-│   └── py_scripts
-├── trusted_zone
-│   ├── images
-│   └── py_scripts
-├── README.md
-└── .gitignore
-├── imgs
 
 
 
